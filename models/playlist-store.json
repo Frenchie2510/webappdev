@@ -1,0 +1,66 @@
+{
+  "playlistCollection": [
+    {
+      "id" : "01",
+      "title": "CSS Resources",
+      
+      "songs": [
+        {
+          "id" : "01",
+          "title": "w3schools",
+          "link": "https://www.w3schools.com/css/"
+        },
+        {
+          "id" : "05",
+          "title": "Code Acedemy",
+          "link": "https://www.codecademy.com/learn/learn-css"
+        },
+        {
+          "id" : "06",
+          "title": "Mozilla Developer",
+          "link": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+        }
+      ]
+    },
+    {
+      "id" : "02",
+      "title": "Java Resources",
+      
+      "songs": [
+        {
+          "id" : "01",
+          "title": "Codementor",
+          "link": "https://www.codementor.io/java-experts"
+        },
+        {
+          "id" : "08",
+          "title": "Code Acedemy",
+          "link": "https://www.codecademy.com/learn/learn-java"
+        },
+        {
+          "id" : "09",
+          "title": "SoloLearn",
+          "link": "https://www.sololearn.com/Course/Java/"
+        }
+      ]
+    },
+    {
+      "id" : "03",
+      "title": "HTML Resources",
+      
+      "songs": [
+        {
+          "id" : "10",
+          "title": "Code Acedemy",
+          "artist": "https://www.codecademy.com/learn/learn-html"
+          
+        },
+        {
+          "id" : "11",
+          "title": "w3schools",
+          "artist": "https://www.w3schools.com/html/"
+        }
+      ]
+    }
+  ]
+}
